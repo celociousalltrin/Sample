@@ -1,0 +1,23 @@
+
+export const DiningFilterMock = [
+{name:"Whats Your Kick"},
+{name:"Tuelip"},
+{name:"INDIAN ART VILLA"},
+{name:"PRISHA INDIA CRAFT"},
+{name:"SHIV SHAKTI ARTS"},
+{name:"Kookee"},
+{name:"MEHUL"},
+{name:"Hot Muggs"},
+{name:"LA TABLEWARE"},
+{name:"Coconut"},
+{name:"UPC"},
+{name:"Kuber Industries"},
+{name:"Urban Chef"},
+{name:"LIMETRO STEEL"},
+{name:"CRAFTYKART"},
+{name:"neelam"},
+{name:"EK DO DHAI"},
+{name:"Anny Kitchenware"},
+{name:"Roxx"},
+{name:"Nutcase"},
+   ];

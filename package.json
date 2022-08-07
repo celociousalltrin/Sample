@@ -19,7 +19,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy":"nom run build",
+    "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
     "api": "json-server --watch --port 4000 RestAPI/data.json",
     "build": "react-scripts build",

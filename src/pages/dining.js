@@ -35,6 +35,7 @@ const cash = PriceFilter(dataList,price)
   return (
         <div className="container-fluid row">
           <div className = "col-3 bg-light">
+            <SideContainer handleRate={handlePrice}/>
           </div>
 
           <div className = "col-9 bg-light p-3 ">
